@@ -1,0 +1,9 @@
+Reference, Quantity, Value, Footprint, P/N
+D1 ,1,1N4148,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,1N4148
+J1 ,1,Conn_01x06,Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Horizontal,PPPC061LGBN-RC
+J2 ,1,DIN-5,User_PCB_Libraries:CUI_SDS-50J,CP-2350
+J3 ,1,AudioJack3_SwitchTR,User_PCB_Libraries:STX3100,STX3100
+R1 ,1,470,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,470 Ohm 1/4 W
+R2 ,1,1K,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1 kOhm 1/4 W
+R3 ,1,220,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,220 Ohm 1/4 W
+U1 ,1,6N138,Package_DIP:DIP-8_W7.62mm,6N138
